@@ -1,5 +1,13 @@
 # Automate Facebook and TikTok Posts
 
+- Run these commands for dependencies
+    - `npm install`
+    - `pip install`
+
+- Development servers
+    - `npm run dev`
+    - `python app.py`
+
 ## Deployment
 
  - The app should be deployed to a service that supports Python, Flask and React.
@@ -28,4 +36,4 @@
 
 ## Environment Variables
 
-The .env file is ready for putting the API Keys
+The .env file is ready for putting the API Keys.
