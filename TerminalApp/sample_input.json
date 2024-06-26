@@ -1,0 +1,34 @@
+[
+    {
+        "platform": "facebook",
+        "type": "post",
+        "message": "Hello from the terminal!",
+        "image_path": "/path/to/image.jpg"
+    },
+    {
+        "platform": "tiktok",
+        "type": "post",
+        "video_path": "/path/to/video.mp4",
+        "description": "Check out this video!"
+    },
+    {
+        "platform": "facebook",
+        "type": "marketplace",
+        "title": "Item for sale",
+        "description": "Great item, very useful.",
+        "price": 100,
+        "currency": "USD",
+        "location": "New York, NY",
+        "image_path": "/path/to/marketplace_image.jpg"
+    },
+    {
+        "platform": "tiktok",
+        "type": "marketplace",
+        "title": "Item for sale on TikTok",
+        "description": "Awesome item, must buy!",
+        "price": 200,
+        "currency": "USD",
+        "location": "Los Angeles, CA",
+        "video_path": "/path/to/marketplace_video.mp4"
+    }
+]
